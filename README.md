@@ -1,22 +1,22 @@
-🎓 Otarea - Explore New Possibilities
-A modern and interactive website designed to explore new possibilities in education and technology. Built using HTML, CSS, and JavaScript, this project features a fixed navigation bar, a search-enabled hero section, blog listings, and a call-to-action for app downloads.
+🎓 Otarea - Explore New Possibilities<br>
+A modern and interactive website designed to explore new possibilities in education and technology. Built using HTML, CSS, and JavaScript, this project features a fixed navigation bar, a search-enabled hero section, blog listings, and a call-to-action for app downloads.<br>
 
 🚀 Features
-✅ Clean and modern UI with a professional design.
-✅ Fixed navigation bar with branding and menu options.
-✅ Hero section with a search bar for articles and topics.
-✅ Blog listing with author names, dates, and brief descriptions.
-✅ Responsive design for both desktop and mobile.
-✅ Call-to-action section to download the Otarea Educore app.
+✅ Clean and modern UI with a professional design.<br>
+✅ Fixed navigation bar with branding and menu options.<br>
+✅ Hero section with a search bar for articles and topics.<br>
+✅ Blog listing with author names, dates, and brief descriptions.<br>
+✅ Responsive design for both desktop and mobile.<br>
+✅ Call-to-action section to download the Otarea Educore app.<br>
 
 🛠 Tech Stack
-🎨 HTML, CSS – Structuring and styling the website.
-🎭 JavaScript – Enhancing interactivity (e.g., search button functionality).
-📌 CSS Flexbox & Grid – For layout and responsiveness.
-⚡ Bootstrap – (If needed for additional styling and responsiveness).
+🎨 HTML, CSS – Structuring and styling the website.<br>
+🎭 JavaScript – Enhancing interactivity (e.g., search button functionality).<br>
+📌 CSS Flexbox & Grid – For layout and responsiveness.<br>
+⚡ Bootstrap – (If needed for additional styling and responsiveness).<br>
 
 📌 Future Enhancements
-🔹 Implement JavaScript functionality for dynamic search filtering.
-🔹 Improve animations and transitions for a smoother user experience.
-🔹 Add a backend (Node.js/PHP) to fetch dynamic blog data.
+🔹 Implement JavaScript functionality for dynamic search filtering.<br>
+🔹 Improve animations and transitions for a smoother user experience.<br>
+🔹 Add a backend (Node.js/PHP) to fetch dynamic blog data.<br>
 🔹 Enhance SEO for better discoverability.
