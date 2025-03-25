@@ -1,6 +1,6 @@
-🎓 Otarea - Explore New Possibilities
+🎓 Otarea - Explore New Possibilities<br>
 <br>
-🚀 Live Demo: https://otarea-explore.netlify.app/
+🚀 Live Demo: https://otarea-explore.netlify.app/<br>
 <br>
 A modern and interactive website designed to explore new possibilities in education and technology. Built using HTML, CSS, and JavaScript, this project features a fixed navigation bar, a search-enabled hero section, blog listings, and a call-to-action for app downloads.<br>
 
